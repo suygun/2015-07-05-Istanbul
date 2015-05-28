@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/suygun/workshop-info2015-07-05"
-workshop_site   : "http://suygun.github.io/workshop-info2015-07-05"
+workshop_repo   : "http://github.com/suygun/2015-07-05-Istanbul"
+workshop_site   : "http://suygun.github.io/2015-07-05-Istanbul"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
